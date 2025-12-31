@@ -1,5 +1,5 @@
 # ecommerceproject
-Ecommerce Project Assignment PEI
+Ecommerce Project Assessment PEI
 
 ## Tech Stack
 - Databricks
